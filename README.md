@@ -1,16 +1,23 @@
-## Hi there 👋
+# Sylvester Dudley
 
-<!--
-**noizrilla96/noizrilla96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Rillanoiz** — small websites and automations, built and handed over.
 
-Here are some ideas to get you started:
+Based in Milwaukee.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Now
+
+[rillanoiz](https://github.com/noizrilla96/rillanoiz) is the public repo. Code there is Apache 2.0. Paid work is setup, customization, and new builds — not the license.
+
+## Hire me
+
+Open an issue on [rillanoiz](https://github.com/noizrilla96/rillanoiz) with:
+
+- what you need (a one-page site, a simple automation, or setup of something I publish)
+- when you need it
+- a way to reply if GitHub is not enough
+
+Project-based. No retainer pitch.
+
+## Profile
+
+Account opened November 2026. This page is the storefront. The work goes in the repo above.
